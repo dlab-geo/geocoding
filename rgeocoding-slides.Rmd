@@ -52,7 +52,7 @@ Obtaining geographic coordinates for named places, street addresses, or zip code
 Named places, codes or addresses
 
 - country, state, city, building, 
-- treet address or intersection, 
+- street address or intersection, 
 - named landmarks like Mt Everest,
 - zip codes
 
@@ -73,7 +73,7 @@ Named places, codes or addresses
 
 `File of Input locations`
 
-- places of the same type in a standard format
+- places of the same type in a [standard format](https://docs.google.com/spreadsheets/d/1lVH6mco1ggWDbQTWWPllRZAMFoa6Dy9WEX1ls333rco/view#gid=532168061)
 
 
 `A Geocoder`
@@ -159,6 +159,8 @@ Many online tools will geocode "on the backend" but not give you access to the o
 
 - [Social Explorer](https://www.socialexplorer.com)
 
+- [Tableau](https://tableau.com)
+
 ## Practice - [Google MyMaps](https://mymaps.google.com/)
 
 1. Open [Sample Geocoding Data Google Sheet](https://docs.google.com/spreadsheets/d/1lVH6mco1ggWDbQTWWPllRZAMFoa6Dy9WEX1ls333rco/edit?usp=sharing)
@@ -192,7 +194,7 @@ I will just **DEMO** with Berkeley Grafitti worksheet data
 
 - [Google Maps](maps.google.com)
 
-*I will DEMO this*
+**DEMO**
 
 ## Geocoding
 
@@ -381,6 +383,14 @@ You may need your credits for other work you do on AGOL.
 
 You may need to allow for time to request and receive more credits for big geocoding jobs.
 
+Use ArcGIS Desktop with a locally installed reference database if you have a huge number of addresses to geocode. 
+
+- Available on the D-Lab computers in 356 Barrows.
+
+## ArcGIS Destop
+
+**DEMO** 
+
 
 # Geocoding Programmatically with APIs
 
@@ -466,4 +476,8 @@ Google Doc to guide you through geocoding with ESRI ArcGIS Online, Desktop or Wo
 # QUESTIONS?
 
 # Thank you!
+
+## Acknowledgements
+
+Many of the images used in this slidedeck were download from [https://unsplash.com/](https://unsplash.com/), a great resource for beautiful free photos. See the R markdown file for photographer credits.
 
